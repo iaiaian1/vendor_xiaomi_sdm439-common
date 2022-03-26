@@ -702,6 +702,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sdm439-common/proprietary/system_ext/lib/libvraudio_client.qti.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libvraudio_client.qti.so \
     vendor/xiaomi/sdm439-common/proprietary/system_ext/lib64/libvraudio_client.qti.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libvraudio_client.qti.so \
     vendor/xiaomi/sdm439-common/proprietary/vendor/lib64/libdisplayconfig.qti.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdisplayconfig.qti.so \
+    vendor/xiaomi/sdm439-common/proprietary/system_ext/lib/libqti-perfd-client_system.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libqti-perfd-client_system.so \
+    vendor/xiaomi/sdm439-common/proprietary/system_ext/lib64/libqti-perfd-client_system.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libqti-perfd-client_system.so \
+    vendor/xiaomi/sdm439-common/proprietary/vendor/lib/libmfproc_dummy_daemon.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmfproc_dummy_daemon.so \
     vendor/xiaomi/sdm439-common/proprietary/vendor/lib64/libnetmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnetmgr.so \
     vendor/xiaomi/sdm439-common/proprietary/vendor/lib64/libnetmgr_common.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnetmgr_common.so \
     vendor/xiaomi/sdm439-common/proprietary/vendor/lib64/libnetmgr_nr_fusion.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnetmgr_nr_fusion.so \
